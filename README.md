@@ -1,1 +1,4 @@
-# PythonMagick-Opencv-based-progress-indicator-animated-graphics
+# PythonMagick-Opencv-based-progress-indicator-animated-graphicsluded
+
+Also included:
+- PythonMagick 
